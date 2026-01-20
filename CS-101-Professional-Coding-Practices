@@ -1,0 +1,19 @@
+# CS 101 Wk 6 Python Notes
+Starting with Lesson 10 (because I just discovered GitHub!!)
+
+### reusable functions
+example discount calculator:
+
+```python
+def apply_discount(price, discount_percent):
+    discount_amount = price * (discount_percent / 100)
+    final_price = price - discount_amount
+    return final_price
+
+# Use the function
+item_price = 50
+discount = 20
+
+new_price = apply_discount(item_price, discount)
+print("Final price after discount:", new_price)```
+
