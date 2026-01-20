@@ -47,3 +47,5 @@ final_price_2 = apply_discount(item_price_2, discount_2)
 show_final_price("Item 1 final price:", final_price_1)
 show_final_price("Item 2 final price:", final_price_2)
 ```
+
+#Lesson 11-Debugging step by step
