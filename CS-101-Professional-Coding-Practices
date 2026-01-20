@@ -15,5 +15,6 @@ item_price = 50
 discount = 20
 
 new_price = apply_discount(item_price, discount)
-print("Final price after discount:", new_price)```
+print("Final price after discount:", new_price)
+```
 
