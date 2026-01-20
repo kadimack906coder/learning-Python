@@ -1,0 +1,19 @@
+# How to create notes with color-coded snippits
+Instructions on how to create "fenced code block" by using three backticks
+
+### My Code Example
+I learned how to use f-strings today:
+
+```python
+name = "Kadi"
+print(f"Hello, {name}!") # This will be color-coded automatically
+
+### Quick Markdown Cheat Sheet for Notes
+Since you are new to this, here are the four most common "tools" you'll use to organize your thoughts:
+
+| Markdown Feature | What you type | What it does |
+| :--- | :--- | :--- |
+| **Header** | `# Main Topic` | Creates a large title |
+| **Sub-Header** | `### Sub Topic` | Creates a smaller section title |
+| **Bullet Points** | `* Item` | Creates an organized list |
+| **Inline Code** | `` `print()` `` | Highlights a single command in the middle of a sentence |
